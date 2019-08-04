@@ -4,7 +4,7 @@ That's my project 1 for Udacity's nanodegree "Data Science - Term 2"
 As attendee I had to choose one dataset and do some data science analysis. 
 I chose some data from the NFL, found at kaggle https://www.kaggle.com/maxhorowitz/nflplaybyplay2015
 
-There is a medium blogpost at https://medium.com/@martin.stingl.dfv/will-my-team-get-a-first-down-right-now-c9c2bec61a81 about this analysis.
+There is a medium blogpost at https://medium.com/@dfv.ms/will-my-team-get-a-first-down-right-now-c9c2bec61a81 about this analysis.
 
 ## Play-by-play data from the NFL
 
