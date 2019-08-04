@@ -15,7 +15,7 @@ The data contains play-by-play data from the NFL season 2018. So I decided to lo
 * Is there a dependancy to the team with the ball?
 
 ## Work on your own
-I you want to run the analysis you have to clone the Jupyter Notebook onto your computer by
+If you want to run the analysis you have to clone the Jupyter Notebook onto your computer by
 
 ```bash
 git clone https://github.com/dfv-ms/udacity_nd025_term2_project_1.git
