@@ -40,3 +40,10 @@ Running the python 3.7 code requires the following python packages:
   * Pandas (0.24.2)
   * Scikit-Learn (0.20.3)
   * matplotlib (3.0.3)
+
+### Files
+* nfl-2015_play_by_play.ipynb The Jupyter Notebook with the analysis.
+* README.md This file.
+* LICENSE The license used for this project.
+* data An empty directory where you to put the data into. Due to the unknown status
+of the license of the data I can't redistribute it here.
