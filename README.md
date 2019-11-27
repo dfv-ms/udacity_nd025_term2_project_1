@@ -40,6 +40,8 @@ and download the dataset https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NF
 Using the wonderful tool binder: Just click onto the button:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfv-ms/udacity_nd025_term2_project_1/master)
 
+Download https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NFLPlaybyPlay2015.csv and upload the file into the data directory.
+
 ### Used libraries
 Running the python 3.7 code requires the following python packages:
   * NumPy (1.16.2)
