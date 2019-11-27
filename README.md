@@ -26,6 +26,8 @@ I'll compare the SuperBowl teams Denver and Carolina with the worst teams of
 the 2015 season Tennessee and Cleveland.
 
 ## Work on your own
+
+### Long way
 If you want to run the analysis you have to clone the Jupyter Notebook onto your computer by
 
 ```bash
@@ -33,6 +35,10 @@ git clone https://github.com/dfv-ms/udacity_nd025_term2_project_1.git
 ```
 
 and download the dataset https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NFLPlaybyPlay2015.csv and put it into the subdirectory "data".
+
+### Fast way
+Using the wonderful tool binder: Just click onto the button:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfv-ms/udacity_nd025_term2_project_1/master)
 
 ### Used libraries
 Running the python 3.7 code requires the following python packages:
