@@ -27,6 +27,12 @@ the 2015 season Tennessee and Cleveland.
 
 ## Work on your own
 
+### Fast way
+Using the wonderful tool binder: Just click onto the button:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfv-ms/udacity_nd025_term2_project_1/master)
+
+Download https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NFLPlaybyPlay2015.csv and upload the file into the data directory.
+
 ### Long way
 If you want to run the analysis you have to clone the Jupyter Notebook onto your computer by
 
@@ -36,20 +42,16 @@ git clone https://github.com/dfv-ms/udacity_nd025_term2_project_1.git
 
 and download the dataset https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NFLPlaybyPlay2015.csv and put it into the subdirectory "data".
 
-### Fast way
-Using the wonderful tool binder: Just click onto the button:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfv-ms/udacity_nd025_term2_project_1/master)
 
-Download https://www.kaggle.com/maxhorowitz/nflplaybyplay2015#NFLPlaybyPlay2015.csv and upload the file into the data directory.
 
-### Used libraries
+#### Used libraries
 Running the python 3.7 code requires the following python packages:
   * NumPy (1.16.2)
   * Pandas (0.24.2)
   * Scikit-Learn (0.20.3)
   * matplotlib (3.0.3)
 
-### Files
+#### Files
 * nfl-2015_play_by_play.ipynb The Jupyter Notebook with the analysis.
 * README.md This file.
 * LICENSE The license used for this project.
