@@ -1,0 +1,10 @@
+name: udacity_nd025_term2_project_1
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - numpy=1.16.2
+  - notebook
+  - seaborn
